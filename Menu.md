@@ -6,10 +6,10 @@
 ## Breakfast
 | Items | Price | 
 |:----------|-----------:|
-| Fire rice | 30.0| 
-| Fruity pancakes | 25.0| 
-| Omelet | 25.0|
-| Two eggs with bacon | 40.0 | 
+| Fire rice | 30 Baht| 
+| Fruity pancakes | 25 Baht| 
+| Omelet | 25 Baht|
+| Two eggs with bacon | 40 Baht| 
 
 
 
@@ -18,42 +18,42 @@
 ## Lunch 
 | Item      | Price      |
 |:----------|-----------:|
-| Crispy pork | 150.0    |
-| Fried chicken | 80.0   |
-| Green curry | 120.0    |
-| Grilled chicken | 200.0 |
-| Potato chip | 70.0 |
-| Spaghetti | 150.0 |
+| Crispy pork | 150 Baht|
+| Fried chicken | 80 Baht|
+| Green curry | 120 Baht|
+| Grilled chicken | 200 Baht|
+| Potato chip | 70 Baht|
+| Spaghetti | 150 Baht|
 ## Dinner
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
-| Fukamaki Sushi plate with Miso Soup    |100.0  |
-| Mixed vegetables with rice             | 30.0  |
-| Pad Thai with Shrimp and Egg           | 45.0  |
-| Yoshinabi with steam rice and Miso Soup|180.0  |
-| Vegetarian Pad Thai                    | 30.0  |
+| Fukamaki Sushi plate with Miso Soup    |100 Baht|
+| Mixed vegetables with rice             | 30 Baht|
+| Pad Thai with Shrimp and Egg           | 45 Baht|
+| Yoshinabi with steam rice and Miso Soup|180 Baht|
+| Vegetarian Pad Thai                    | 30 Baht|
 
 
 
 ## Night Food        
 | Items      | Price    |
 |:----------|-----------:|
-| Chips | 30.0 |
-| Sausage | 25.0 |
-| Spicy ribs | 120.0 |
-| Fried tofu | 40.0 |
-| Roast duck with streamed rice | 45.0 |
+| Chips | 30 Baht|
+| Fried tofu | 40 Baht|
+| Roast duck with streamed rice | 45 Baht|
+| Sausage | 25 Baht|
+| Spicy ribs | 120 Baht|
 
 
 ## Beverages
 | Items | Price | 
 |:----------|-----------:|
 | Glass of water | Free|
-| Ice tea | 10.0| 
-| Leo | 60.0| 
-| Pepsi | 15.0 | 
-| Sprite | 15.0| 
+| Ice tea | 10 Baht|
+| Leo | 60 Baht| 
+| Pepsi | 15 Baht| 
+| Sprite | 15 Baht| 
 
 
 
