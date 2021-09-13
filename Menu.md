@@ -1,5 +1,4 @@
 # KU Cafe Menu
-[Breakfast Menu](#Breakfast)
 
 [Breakfast](#Breakfast) | [Lunch](#Lunch) | [Dinner](#dinner) | [Night Food](#night-food) | [Beverages](#Beverages)
 
@@ -9,8 +8,9 @@
 |:----------|-----------:|
 | Fire rice | 30.0| 
 | Fruity pancakes | 25.0| 
+| Omelet | 25.0|
 | Two eggs with bacon | 40.0 | 
-| Omelet | 25.0| 
+
 
 
 
