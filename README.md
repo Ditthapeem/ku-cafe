@@ -1,14 +1,18 @@
 # KU Cafe
 
 ## [Menu](Menu.md)
-
-**TODO**: add hyperlinks **one per line** to each section of the Menu. Remove this TODO.
-
+  
+[Dinner](Menu#dinner)
+[Night Food](/Menu.md#night-food)
+[Beverages](/Menu.md#beverages)  
 
 ## About Us
 
-**TODO**: Each person add yourself to this table; Points deducted if one person adds everyone.
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
 | Chonchanok Chevaisrakul | Night Food | @boom210232 |
+| Kittison | Beverages | @touchtool       |
+| Jim Brucker |  Dinner | @jbrucker       |
+
+
