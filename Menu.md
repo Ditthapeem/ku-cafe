@@ -17,10 +17,10 @@
 | Items | Price | 
 |:----------|-----------|
 | Glass of water | Free|
-| Pepsi | 15 Bath | 
-| Tea | 10 Bath| 
-| Leo | 60 Bath| 
-| Sprite | 15 Bath| 
+| Pepsi | 15 Baht | 
+| Tea | 10 Baht| 
+| Leo | 60 Baht| 
+| Sprite | 15 Baht| 
 
 
 
