@@ -2,8 +2,8 @@
 
 ## [Menu](Menu.md)
   
-[Dinner](Menu#dinner)
-[Beverages](/Menu.md#beverages)  
+[Dinner](Menu.md#dinner)    
+[Beverages](Menu.md#beverages)  
 
 ## About Us
 
