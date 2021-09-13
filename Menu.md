@@ -3,9 +3,6 @@
 
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
 
 ## Lunch 
 
@@ -17,6 +14,13 @@
 
 
 ## Beverages
+| Items | Price | 
+|:----------|-----------|
+| Glass of water | Free|
+| Pepsi | 15 Bath | 
+| Tea | 10 Bath| 
+| Leo | 60 Bath| 
+| Sprite | 15 Bath| 
 
 
 
