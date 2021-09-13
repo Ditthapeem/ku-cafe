@@ -2,12 +2,11 @@
 
 ## [Menu](Menu.md)
   
-[Dinner](Menu#dinner)
-[Night Food](/Menu.md#night-food)
+[Dinner](Menu#dinner)    
+[Night Food](/Menu.md#night-food)    
 [Beverages](/Menu.md#beverages)  
 
 ## About Us
-
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
