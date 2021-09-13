@@ -17,7 +17,7 @@ Breakfast | Lunch | Dinner | Night Food | [Beverages](#Beverages)
 | Items | Price | 
 |:----------|-----------|
 | Glass of water | Free|
-| Ice Tea | 10.0| 
+| Ice tea | 10.0| 
 | Leo | 60.0| 
 | Pepsi | 15.0 | 
 | Sprite | 15.0| 
