@@ -1,5 +1,6 @@
 # KU Cafe Menu
 
+Breakfast | Lunch | [Dinner](#dinner) | Night Food | Beverages
 
 ## Breakfast
 
@@ -11,6 +12,15 @@
 
 
 ## Dinner
+
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| Fukamaki Sushi plate with Miso Soup    |100.0  |
+| Mixed vegetables with rice             | 30.0  |
+| Pad Thai with Shrimp and Egg           | 45.0  |
+| Yoshinabi with steam rice and Miso Soup|180.0  |
+| Vegetarian Pad Thai                    | 30.0  |
+
 
 
 ## Night Food
