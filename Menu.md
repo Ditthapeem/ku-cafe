@@ -1,6 +1,6 @@
 # KU Cafe Menu
 
-Breakfast | Lunch | [Dinner](#dinner) | Night Food | [Beverages](#Beverages)
+Breakfast | Lunch | [Dinner](#dinner) | [Night Food](#night-food) | [Beverages](#Beverages)
 
 ## Breakfast
 
@@ -21,8 +21,8 @@ Breakfast | Lunch | [Dinner](#dinner) | Night Food | [Beverages](#Beverages)
 
 
 ## Night Food        
-| **Items**      | **Price**    |
-|:----------|-----------|
+| Items      | Price    |
+|:----------|-----------:|
 | Chips | 30.0 |
 | Sausage | 25.0 |
 | Spicy ribs | 120.0 |
@@ -32,7 +32,7 @@ Breakfast | Lunch | [Dinner](#dinner) | Night Food | [Beverages](#Beverages)
 
 ## Beverages
 | Items | Price | 
-|:----------|-----------|
+|:----------|-----------:|
 | Glass of water | Free|
 | Ice tea | 10.0| 
 | Leo | 60.0| 
