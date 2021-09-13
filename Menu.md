@@ -40,10 +40,11 @@
 | Items      | Price    |
 |:----------|-----------:|
 | Chips | 30.0 |
-| Sausage | 25.0 |
-| Spicy ribs | 120.0 |
 | Fried tofu | 40.0 |
 | Roast duck with streamed rice | 45.0 |
+| Sausage | 25.0 |
+| Spicy ribs | 120.0 |
+
 
 
 ## Beverages
