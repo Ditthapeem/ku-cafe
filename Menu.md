@@ -1,11 +1,13 @@
 # KU Cafe Menu
-
+[Breakfast Menu](#Breakfast)
 
 ## Breakfast
-
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
+| Items | Price | 
+|:----------|-----------:|
+| Fire rice | 30.0| 
+| Fruity pancakes | 25.0| 
+| Two eggs with bacon | 40.0 | 
+| Omelet | 25.0| 
 
 ## Lunch 
 
