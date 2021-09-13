@@ -1,7 +1,7 @@
 # KU Cafe
 
 ## [Menu](Menu.md)
-
+[Lunch](/Menu.md#Lunch)
 
 
 ## About Us

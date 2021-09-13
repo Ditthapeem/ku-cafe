@@ -1,14 +1,10 @@
 # KU Cafe Menu
-
+| [Lunch](#Lunch) |
 
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
-
 ## Lunch 
-    | Item      | Price      |
+| Item      | Price      |
 |:----------|-----------|
 | Green curry | 120 |
 | Fried chicken | 80 |
