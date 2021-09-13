@@ -1,5 +1,5 @@
 # KU Cafe Menu
-
+Breakfast | Lunch | Dinner | Night Food | [Beverages](Beverages)
 
 ## Breakfast
 
@@ -17,10 +17,10 @@
 | Items | Price | 
 |:----------|-----------|
 | Glass of water | Free|
-| Pepsi | 15 Baht | 
-| Tea | 10 Baht| 
-| Leo | 60 Baht| 
-| Sprite | 15 Baht| 
+| Pepsi | 15.0 | 
+| Tea | 10.0| 
+| Leo | 60.0| 
+| Sprite | 15.0| 
 
 
 
