@@ -1,12 +1,9 @@
 # KU Cafe Menu
 
-Breakfast | Lunch | [Dinner](#dinner) | Night Food | Beverages
+Breakfast | Lunch | [Dinner](#dinner) | Night Food | [Beverages](#Beverages)
 
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
 
 ## Lunch 
 
@@ -27,6 +24,13 @@ Breakfast | Lunch | [Dinner](#dinner) | Night Food | Beverages
 
 
 ## Beverages
+| Items | Price | 
+|:----------|-----------|
+| Glass of water | Free|
+| Ice tea | 10.0| 
+| Leo | 60.0| 
+| Pepsi | 15.0 | 
+| Sprite | 15.0| 
 
 
 
