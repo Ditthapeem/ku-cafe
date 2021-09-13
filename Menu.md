@@ -1,5 +1,5 @@
 # KU Cafe Menu
-Breakfast | Lunch | Dinner | Night Food | [Beverages](Beverages)
+Breakfast | Lunch | Dinner | Night Food | [Beverages](#Beverages)
 
 ## Breakfast
 
@@ -17,9 +17,9 @@ Breakfast | Lunch | Dinner | Night Food | [Beverages](Beverages)
 | Items | Price | 
 |:----------|-----------|
 | Glass of water | Free|
-| Pepsi | 15.0 | 
-| Tea | 10.0| 
+| Ice Tea | 10.0| 
 | Leo | 60.0| 
+| Pepsi | 15.0 | 
 | Sprite | 15.0| 
 
 
