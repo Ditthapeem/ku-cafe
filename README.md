@@ -1,14 +1,15 @@
 # KU Cafe
 
 ## [Menu](Menu.md)
-
-[Beverages](/Menu.md#beverages)    
-
-
+  
+[Dinner](Menu#dinner)
+[Beverages](/Menu.md#beverages)  
 
 ## About Us
 
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Kittison | Beverages | @touchtool |
+| Kittison | Beverages | @touchtool       |
+| Jim Brucker |  Dinner | @jbrucker       |
+
