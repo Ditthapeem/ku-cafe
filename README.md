@@ -2,11 +2,12 @@
 
 ## [Menu](Menu.md)
 
-
-[Lunch](Menu.md#Lunch)  
-[Dinner](Menu#dinner)    
-[Night Food](/Menu.md#night-food)    
-[Beverages](/Menu.md#beverages)  
+    
+[Breakfast Menu](Menu.md#Breakfast)    
+[Lunch](Menu.md#Lunch)      
+[Dinner](Menu#dinner)        
+[Night Food](/Menu.md#night-food)       
+[Beverages](/Menu.md#beverages)     
 
 ## About Us
 
@@ -16,6 +17,7 @@
 | Chonchanok Chevaisrakul | Night Food | @boom210232 |
 | Kittison | Beverages | @touchtool       |
 | Jim Brucker |  Dinner | @jbrucker       |
+| Ditthapong lakagul | Breakfast Menu | @HuskyIsHere |
 
 
 
